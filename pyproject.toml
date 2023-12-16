@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "example-semver"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Muhammad Luqman <im.imperativa@gmail.com>"]
 readme = "README.md"
